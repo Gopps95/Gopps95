@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gopps</h1>
 <h3 align="center">A passionate python developer</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [gopishankar.me](gopishankar.me)
 
