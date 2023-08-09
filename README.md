@@ -3,9 +3,9 @@
 
 - 🌱 learning is an never ending loop
 
-- 👨‍💻 Know me more at [gopishankars.tech](gopishankars.tech)
+- 👨‍💻 Know me more at [[gopishankars.tech](gopishankars.tech)](https://www.gopishankars.tech/)
 
-- 📫 How to reach me **gopishankar.me**
+- 📫 Please feel free to reach out to me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
