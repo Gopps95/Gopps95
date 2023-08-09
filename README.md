@@ -3,7 +3,7 @@
 
 - 🌱 learning is an never ending loop
 
-- 👨‍💻 All of my projects are available at [gopishankar.me](gopishankar.me)
+- 👨‍💻 Know me more at [gopishankars.tech](gopishankars.tech)
 
 - 📫 How to reach me **gopishankar.me**
 
